@@ -22,11 +22,9 @@ A API está hospedata no heroku, e possui somente o endpoint /linguagem. Este en
 - DELETE/{id} Deleta uma linguagem
 
 ## 📄 Aplicação que utiliza a API
-A fim de estudo, o <a link="https://github.com/PauloFra">Paulo Sérgio</a> desenvolvel uma aplicação em React utilizando os endpoints da API:<br>
+A fim de estudo, o [Paulo Sérgio(https://github.com/PauloFra) desenvolveu uma aplicação em React utilizando os endpoints da API:<br>
 https://sistema-alura.vercel.app/
 
 ![consumindo a API](https://user-images.githubusercontent.com/44748616/181362419-6ff9c227-0d5b-4411-8ba9-e32ea74d5c14.png)
-
-
 
 <br>
